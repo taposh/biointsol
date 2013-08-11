@@ -1,0 +1,82 @@
+[
+{
+id: 49090,
+name: "Bijan Restaurant - Fremont",
+address: "39935 Mission Blvd",
+city: "Fremont",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94539",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "5104401755",
+token: "2DB00C16",
+reserve_url: "http://www.opentable.com/single.aspx?rid=49090",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=49090"
+},
+{
+id: 30409,
+name: "Massimo's - Fremont",
+address: "5200 Mowry Avenue",
+city: "Fremont",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94538",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "5107922000",
+token: "1E685584",
+reserve_url: "http://www.opentable.com/single.aspx?rid=30409",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=30409"
+},
+{
+id: 65062,
+name: "Salang Pass Restaurant",
+address: "37462 Fremont Blvd.",
+city: "Fremont",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94536",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "5107959200",
+token: "0C710444",
+reserve_url: "http://www.opentable.com/single.aspx?rid=65062",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=65062"
+},
+{
+id: 32557,
+name: "Spin a Yarn",
+address: "45915 Warm Springs Blvd",
+city: "Fremont",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94539",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "5106569141",
+token: "F455ADC2",
+reserve_url: "http://www.opentable.com/single.aspx?rid=32557",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=32557"
+}
+]

@@ -1,0 +1,507 @@
+{
+count: 46,
+per_page: 25,
+current_page: 1,
+restaurants: [
+{
+id: 6467,
+name: "19 Market",
+address: "19 N Market",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95113",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082806111",
+token: "19market",
+reserve_url: "http://www.opentable.com/single.aspx?rid=6467",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=6467"
+},
+{
+id: 47611,
+name: "71 Saint Peter Restaurant",
+address: "71 N. San Pedro Street",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95110",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4089718523",
+token: "07168858",
+reserve_url: "http://www.opentable.com/single.aspx?rid=47611",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=47611"
+},
+{
+id: 44983,
+name: "A Perfect Finish Wine Bar",
+address: "55 S. 1st Street",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95113",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082886000",
+token: "6BA5978F",
+reserve_url: "http://www.opentable.com/single.aspx?rid=44983",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=44983"
+},
+{
+id: 27664,
+name: "Amber India - Santana Row",
+address: "377 Santana Row",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95128",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082485400",
+token: "BDEAD711",
+reserve_url: "http://www.opentable.com/single.aspx?rid=27664",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=27664"
+},
+{
+id: 2388,
+name: "ARCADIA",
+address: "100 W San Carlos St.",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95113",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082784555",
+token: "Arcadia",
+reserve_url: "http://www.opentable.com/single.aspx?rid=2388",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=2388"
+},
+{
+id: 16096,
+name: "Azúcar Latin Bistro Mojito Bar & Lounge",
+address: "71 E. San Fernando Street",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95113",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082938482",
+token: "azucarlatinbistro",
+reserve_url: "http://www.opentable.com/single.aspx?rid=16096",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=16096"
+},
+{
+id: 24055,
+name: "Billy Berk's",
+address: "99 South 1st Street",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95113",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082924300",
+token: "billyberks",
+reserve_url: "http://www.opentable.com/single.aspx?rid=24055",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=24055"
+},
+{
+id: 10450,
+name: "Black Angus Steakhouse - Blossom Hill",
+address: "1011 Blossom Hill Rd.",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95123",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082666602",
+token: "blackangusblossomhill",
+reserve_url: "http://www.opentable.com/single.aspx?rid=10450",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=10450"
+},
+{
+id: 4480,
+name: "Blowfish Sushi to Die For, San Jose",
+address: "355 Santana Row",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95128",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4083453848",
+token: "blowfishsanjose",
+reserve_url: "http://www.opentable.com/single.aspx?rid=4480",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=4480"
+},
+{
+id: 40978,
+name: "BlueFin Japanese Restaurant",
+address: "754 The Alameda",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95126",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4089316875",
+token: "966FAA20",
+reserve_url: "http://www.opentable.com/single.aspx?rid=40978",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=40978"
+},
+{
+id: 19408,
+name: "Buca di Beppo - San Jose - Oakridge",
+address: "925 Blossom Hill Road",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95123",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082261444",
+token: "bucasanjoseoakridge",
+reserve_url: "http://www.opentable.com/single.aspx?rid=19408",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=19408"
+},
+{
+id: 7234,
+name: "Citrus @ Hotel Valencia Santana Row",
+address: "355 Santana Row",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95128",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4084235400",
+token: "hotelvalenciacistrussanjose",
+reserve_url: "http://www.opentable.com/single.aspx?rid=7234",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=7234"
+},
+{
+id: 2408,
+name: "Consuelo Mexican Bistro",
+address: "377 Santana Row #1125",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95128",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082607082",
+token: "cazuelas",
+reserve_url: "http://www.opentable.com/single.aspx?rid=2408",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=2408"
+},
+{
+id: 57868,
+name: "Creekside Bar and Grill",
+address: "544 West Alma Ave.",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95425",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082899781",
+token: "2DCA9379",
+reserve_url: "http://www.opentable.com/single.aspx?rid=57868",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=57868"
+},
+{
+id: 58606,
+name: "Eight Heaven Restaurant and Lounge",
+address: "2345 McKee Road",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95116",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "5107988188",
+token: "6F7D836F",
+reserve_url: "http://www.opentable.com/single.aspx?rid=58606",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=58606"
+},
+{
+id: 4305,
+name: "Fahrenheit Restaurant & Lounge",
+address: "99 East San Fernando Street",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95113",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4089989998",
+token: "fahrenheitultralounge",
+reserve_url: "http://www.opentable.com/single.aspx?rid=4305",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=4305"
+},
+{
+id: 2864,
+name: "Il Fornaio - San Jose",
+address: "302 South Market St.",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95113",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082713366",
+token: "Il_Fornaio_San_Jose",
+reserve_url: "http://www.opentable.com/single.aspx?rid=2864",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=2864"
+},
+{
+id: 3920,
+name: "La Pastaia",
+address: "233 West Santa Clara St.",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95113",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082868686",
+token: "lapastaia",
+reserve_url: "http://www.opentable.com/single.aspx?rid=3920",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=3920"
+},
+{
+id: 7055,
+name: "LB Steak",
+address: "334 Santana Row #1000",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95128",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082441180",
+token: "tanglewood",
+reserve_url: "http://www.opentable.com/single.aspx?rid=7055",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=7055"
+},
+{
+id: 73465,
+name: "Le Papillon",
+address: "410 Saratoga Avenue",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95129",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082963730",
+token: "95FED96A",
+reserve_url: "http://www.opentable.com/single.aspx?rid=73465",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=73465"
+},
+{
+id: 2115,
+name: "Left Bank Santana Row",
+address: "377 Santana Row, Suite #1100",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95128",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4089843500",
+token: "leftbanksantanarow",
+reserve_url: "http://www.opentable.com/single.aspx?rid=2115",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=2115"
+},
+{
+id: 19975,
+name: "Loft Bar and Bistro",
+address: "90 Second Street",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95113",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082910677",
+token: "loftbarbistro",
+reserve_url: "http://www.opentable.com/single.aspx?rid=19975",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=19975"
+},
+{
+id: 53056,
+name: "Los Gatos Brewing Company - San Jose",
+address: "163 W Santa Clara St",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95113",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082929928",
+token: "CD29F6FD",
+reserve_url: "http://www.opentable.com/single.aspx?rid=53056",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=53056"
+},
+{
+id: 15076,
+name: "Maggiano's - San Jose",
+address: "3055 Olin Avenue, Suite 1000",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95128",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4084238973",
+token: "maggianossanjose",
+reserve_url: "http://www.opentable.com/single.aspx?rid=15076",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=15076"
+},
+{
+id: 5118,
+name: "McCormick & Schmick's Seafood - San Jose",
+address: "170 South Market Street",
+city: "San Jose",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "95113",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4082837200",
+token: "mccormickschmickssanjose",
+reserve_url: "http://www.opentable.com/single.aspx?rid=5118",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=5118"
+}
+]
+}

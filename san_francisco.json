@@ -1,0 +1,502 @@
+[
+{
+id: 16609,
+name: "1300 on Fillmore",
+address: "1300 Fillmore Street",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94115",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4157717100",
+token: "1300onFillmore",
+reserve_url: "http://www.opentable.com/single.aspx?rid=16609",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=16609"
+},
+{
+id: 49783,
+name: "25 Lusk",
+address: "25 Lusk Street",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94107",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4154955875",
+token: "9EFA66E1",
+reserve_url: "http://www.opentable.com/single.aspx?rid=49783",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=49783"
+},
+{
+id: 5166,
+name: "272 Soluna Cafe & Lounge",
+address: "272 McAllister Street",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94102",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4156212200",
+token: "solunacafe",
+reserve_url: "http://www.opentable.com/single.aspx?rid=5166",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=5166"
+},
+{
+id: 43429,
+name: "2G Japanese Brasserie",
+address: "601 Van Ness Avenue Suite F",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94102",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4152929997",
+token: "60BA2903",
+reserve_url: "http://www.opentable.com/single.aspx?rid=43429",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=43429"
+},
+{
+id: 51673,
+name: "54 Mint",
+address: "16 Mint Plaza",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94103",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4155435100",
+token: "3C8220EA",
+reserve_url: "http://www.opentable.com/single.aspx?rid=51673",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=51673"
+},
+{
+id: 30271,
+name: "5A5 Steak Lounge",
+address: "244 Jackson Street",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94111",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4159892539",
+token: "B252534D",
+reserve_url: "http://www.opentable.com/single.aspx?rid=30271",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=30271"
+},
+{
+id: 67774,
+name: "750 Restaurant & Bar",
+address: "750 Kearny Street",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94108",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4154336600",
+token: "8CC4BB2A",
+reserve_url: "http://www.opentable.com/single.aspx?rid=67774",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=67774"
+},
+{
+id: 2910,
+name: "A16",
+address: "2355 Chestnut St.",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94123",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4157712216",
+token: "A16_Restaurant",
+reserve_url: "http://www.opentable.com/single.aspx?rid=2910",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=2910"
+},
+{
+id: 23641,
+name: "Abacus - San Francisco",
+address: "2078 Hayes Street",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94117",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4153872828",
+token: "abacussanfrancisco",
+reserve_url: "http://www.opentable.com/single.aspx?rid=23641",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=23641"
+},
+{
+id: 2542,
+name: "Absinthe Brasserie and Bar",
+address: "398 Hayes Street",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94102",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4155511590",
+token: "Absinthe_Brasserie",
+reserve_url: "http://www.opentable.com/single.aspx?rid=2542",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=2542"
+},
+{
+id: 3494,
+name: "Acquerello",
+address: "1722 Sacramento St.",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94109",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4155675432",
+token: "acquerello",
+reserve_url: "http://www.opentable.com/single.aspx?rid=3494",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=3494"
+},
+{
+id: 83206,
+name: "Aicha",
+address: "1303 Polk St",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94109-4613",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4153459947",
+token: "633BD0C1",
+reserve_url: "http://www.opentable.com/single.aspx?rid=83206",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=83206"
+},
+{
+id: 51061,
+name: "Akiko's Restaurant & Sushi Bar",
+address: "431 Bush Street",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94108",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4153973218",
+token: "A855085C",
+reserve_url: "http://www.opentable.com/single.aspx?rid=51061",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=51061"
+},
+{
+id: 5880,
+name: "Alamo Square Seafood Grill",
+address: "803 Fillmore St",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94117",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4154402828",
+token: "alamosquare",
+reserve_url: "http://www.opentable.com/single.aspx?rid=5880",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=5880"
+},
+{
+id: 6277,
+name: "Albona Ristorante Istriano",
+address: "545 Francisco St",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94133",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4154411040",
+token: "albona",
+reserve_url: "http://www.opentable.com/single.aspx?rid=6277",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=6277"
+},
+{
+id: 338,
+name: "Alegrias Food from Spain",
+address: "2018 Lombard",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94123",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4159298888",
+token: "alegriasfoodfromspain",
+reserve_url: "http://www.opentable.com/single.aspx?rid=338",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=338"
+},
+{
+id: 681,
+name: "Alexander's Steakhouse - SF",
+address: "448 Brannan Street",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94107",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4154951111",
+token: "alexanders-steakhouse-sf-reservations-san-francisc",
+reserve_url: "http://www.opentable.com/single.aspx?rid=681",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=681"
+},
+{
+id: 11,
+name: "Alfred's Steakhouse",
+address: "659 Merchant St.",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94111",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4157817058",
+token: "alfreds",
+reserve_url: "http://www.opentable.com/single.aspx?rid=11",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=11"
+},
+{
+id: 3414,
+name: "Alioto's",
+address: "#8 Fisherman's Wharf",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94133",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4156730183",
+token: "aliotos",
+reserve_url: "http://www.opentable.com/single.aspx?rid=3414",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=3414"
+},
+{
+id: 1321,
+name: "Amarena",
+address: "2162 Larkin Street",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94109",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4154470441",
+token: "baldoria",
+reserve_url: "http://www.opentable.com/single.aspx?rid=1321",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=1321"
+},
+{
+id: 24886,
+name: "Amber India",
+address: "25 Yerba Buena Lane",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94103",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4157770500",
+token: "amberindia",
+reserve_url: "http://www.opentable.com/single.aspx?rid=24886",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=24886"
+},
+{
+id: 5546,
+name: "Ame",
+address: "689 Mission Street",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94105",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4152844040",
+token: "ame",
+reserve_url: "http://www.opentable.com/single.aspx?rid=5546",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=5546"
+},
+{
+id: 66688,
+name: "American Cupcake Restaurant",
+address: "1919 Union St",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94123",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4158964217",
+token: "5964476B",
+reserve_url: "http://www.opentable.com/single.aspx?rid=66688",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=66688"
+},
+{
+id: 3972,
+name: "Americano Restaurant - Hotel Vitale",
+address: "8 Mission Street",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94105",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4152783777",
+token: "americanovitale",
+reserve_url: "http://www.opentable.com/single.aspx?rid=3972",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=3972"
+},
+{
+id: 171,
+name: "Ana Mandara",
+address: "891 Beach St.",
+city: "San Francisco",
+state: "CA",
+area: "San Francisco Bay Area",
+postal_code: "94109",
+country: "US",
+latitude: null,
+longitude: null,
+location: [
+null,
+null
+],
+phone: "4157716800",
+token: "anamandara",
+reserve_url: "http://www.opentable.com/single.aspx?rid=171",
+mobile_reserve_url: "http://mobile.opentable.com/opentable/?restId=171"
+}
+]
